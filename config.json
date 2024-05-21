@@ -11,9 +11,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "[BOT]Rado",
-    "PREFIX": "/",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100076488601971"
+        "100058415170590"
     ],
     "DATABASE": {
         "sqlite": {
